@@ -10,10 +10,10 @@
     "start": "npx webpack-dev-server"
   },
   "devDependencies": {
-    "@babel/cli": "^7.14.8",
-    "@babel/core": "^7.15.0",
-    "@babel/preset-env": "^7.15.0",
-    "autoprefixer": "^9.8.6",
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "autoprefixer": "^9.8.8",
     "babel-loader": "^8.2.2",
     "css-loader": "^2.1.1",
     "file-loader": "^3.0.1",
